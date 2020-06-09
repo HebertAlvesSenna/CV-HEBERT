@@ -2,14 +2,9 @@ img {
     font-size: 5%;
 }
 
-img.1{
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
-    font-size: 30%;
-
-}
+div.1 {
+      width: 180px; 
+    }
 ul {
     list-style-type: none;
     margin: 0;
