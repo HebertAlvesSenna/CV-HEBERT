@@ -1,9 +1,13 @@
 img {
     font-size: 5%;
 }
+body{
+    background-color: black;
+}
 
-div.1 {
-      width: 180px; 
+img.hb {
+      width: 100px;
+      border-radius: 50%; 
     }
 ul {
     list-style-type: none;
